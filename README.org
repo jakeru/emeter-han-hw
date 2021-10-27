@@ -1,0 +1,9 @@
+#+TITLE: Use HAN port to get electricity usage
+
+This is a software engineer playing with KiCad.
+
+I have tried a few approaches but the one that is now active is the
+e-meter-han-usb-c variant. It consists of a ESP32 and a USB-C connector as well
+as a connector for the HAN port.
+
+Note that this is still work in progress!
