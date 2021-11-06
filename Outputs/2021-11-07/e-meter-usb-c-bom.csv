@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC Part #
+10u Unpolarized capacitor,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19702
+470p Unpolarized capacitor,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1620
+2.2u Unpolarized capacitor,C3,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C23630
+0.1u Unpolarized capacitor,"C4,C6,C7",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+22u Unpolarized capacitor,C5,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C59461
+"MDD-SS14 40V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)","D1,D2",D_SMA,C2480
+LED Light emitting diode,"D3,D4,D5",LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2290
+"6P6C RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25",J1,RJ12_Amphenol_54601,C305981
+USB_C_Receptacle_USB2.0 USB 2.0-only Type-C Receptacle connector,J2,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+"S8050 0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92","Q1,Q3,Q4",SOT-23,C2150
+"4.7k Resistor, US symbol",R2,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23162
+"68 Resistor, US symbol","R3,R7,R11",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C27592
+"10k Resistor, US symbol","R4,R5,R6,R10",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+"5.6k Resistor, US symbol","R8,R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23189
+"SW_Push Push button switch, generic, two pins",SW1,TE_Connectivity_FSM2JSMAA,C127509
+"ESP32-WROOM-32 RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD",U2,ESP32-WROOM-32,C82899
+"CH340B (or C) USB serial converter, UART, SOIC-16",U4,SOIC-16_3.9x9.9mm_P1.27mm,C81010
